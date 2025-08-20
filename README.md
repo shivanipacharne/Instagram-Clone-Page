@@ -1,1 +1,1 @@
-This My Web Technologies Project
+This is a Web technology Project.
